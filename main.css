@@ -68,7 +68,9 @@ a {
     text-transform: uppercase;
     text-decoration: none;
     color: black;
-    padding: 10px;
+    line-height: 1em;
+    margin-top: 2em;
+    padding: 15px 0px;
 }
 
 footer {
